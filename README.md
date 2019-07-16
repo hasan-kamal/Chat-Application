@@ -27,6 +27,7 @@
 	- For example, execute `java -classpath bin Client 192.168.1.15 1024` is server's IP is _192.168.1.15_ and port number is _1024_
 
 ### Sample run
+
 | Hello | World |
 | Okay | This |
 
