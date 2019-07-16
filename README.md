@@ -26,6 +26,10 @@
 	- Execute `java -classpath bin Client <ip_addr> <port_no>` where `ip_addr`, `port_no` are IP address of server and port number, respectively
 	- For example, execute `java -classpath bin Client 192.168.1.15 1024` is server's IP is _192.168.1.15_ and port number is _1024_
 
+### Sample run
+| Hello | World |
+| Okay | This |
+
 ### References
 1. [Reading from and Writing to a Socket](https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html)
 2. [Writing the Server Side of a Socker](https://docs.oracle.com/javase/tutorial/networking/sockets/clientServer.html)
